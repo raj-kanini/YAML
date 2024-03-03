@@ -1,0 +1,18 @@
+Kanini: 
+ - Department: 
+    - name: Product Engineering
+      employees:
+       - name: Raj
+       - name: Alex
+
+ - Department: 
+    - name: ServiceNow
+      employees:
+       - name: Raj
+       - name: Alex
+
+ - Department: 
+    - name: Data
+      employees:
+       - name: Raj
+       - name: Alex     
